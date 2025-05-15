@@ -340,7 +340,6 @@ int main()
             salir = true;
             break;
         default:
-
             break;
         }
 
