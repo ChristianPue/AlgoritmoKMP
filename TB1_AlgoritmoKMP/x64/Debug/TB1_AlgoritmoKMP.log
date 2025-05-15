@@ -1,5 +1,5 @@
 ﻿  TB1_AlgoritmoKMP.cpp
-C:\Users\USER\OneDrive - Universidad Peruana de Ciencias\UPC\Códigos de Programación\C++\Fundamentos de Programación Competitiva\TB1_AlgoritmoKMP\TB1_AlgoritmoKMP\TB1_AlgoritmoKMP.cpp(155,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\USER\OneDrive - Universidad Peruana de Ciencias\UPC\Códigos de Programación\C++\Fundamentos de Programación Competitiva\TB1_AlgoritmoKMP\TB1_AlgoritmoKMP\TB1_AlgoritmoKMP.cpp(156,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\USER\OneDrive - Universidad Peruana de Ciencias\UPC\Códigos de Programación\C++\Fundamentos de Programación Competitiva\TB1_AlgoritmoKMP\TB1_AlgoritmoKMP\TB1_AlgoritmoKMP.cpp(238,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  TB1_AlgoritmoKMP.vcxproj -> C:\Users\USER\OneDrive - Universidad Peruana de Ciencias\UPC\Códigos de Programación\C++\Fundamentos de Programación Competitiva\TB1_AlgoritmoKMP\x64\Debug\TB1_AlgoritmoKMP.exe
+C:\Users\Chris\Documents\GitHub\AlgoritmoKMP\TB1_AlgoritmoKMP\TB1_AlgoritmoKMP.cpp(155,11): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Chris\Documents\GitHub\AlgoritmoKMP\TB1_AlgoritmoKMP\TB1_AlgoritmoKMP.cpp(156,11): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Chris\Documents\GitHub\AlgoritmoKMP\TB1_AlgoritmoKMP\TB1_AlgoritmoKMP.cpp(238,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  TB1_AlgoritmoKMP.vcxproj -> C:\Users\Chris\Documents\GitHub\AlgoritmoKMP\x64\Debug\TB1_AlgoritmoKMP.exe

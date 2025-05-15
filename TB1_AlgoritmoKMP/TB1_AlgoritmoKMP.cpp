@@ -225,7 +225,7 @@ void calcularPatrones_algoritmoKMP(string texto, vector<string> patrones)
                 cout << "     (i) El patron es muy frecuente en el texto.";
             }
         }
-        else { cout << "No se encontro repiticiones con este patron."; }
+        else { cout << "No se encontro patron."; }
         cout << endl;
     }
 }
@@ -249,11 +249,11 @@ int main()
         // Menú de opciones
         size_t opc;
         cout << "::::: Algoritmo KMP :::::" << endl;
-        cout << "1. Asigne el tamano y los valores del texto (el texto donde se buscara el patron)." << endl;
-        cout << "2. Asigne el numero de casos de prueba (las veces que buscara un patron) y" << endl;
-        cout << "   tambien asigne el valor de cada patron (la cadena de texto a buscar)." << endl;
+        cout << "1. Asigne el valor del texto (el texto donde se buscara uno o mas patrones)." << endl;
+        cout << "2. Asigne el numero de casos de prueba (cuantos patrones se buscaran) y" << endl;
+        cout << "   tambien asigne el valor de cada patron (la cadena de valores a buscar en el texto)." << endl;
         
-        cout << "3. Calcular cuantas veces se repiten el/los patron(es) mediante el algoritmo de KMP." << endl;
+        cout << "3. Calcular cuantas veces se repiten el/los patron(es) (con el algoritmo de KMP)." << endl;
         cout << "0. Salir del programa." << endl;
         cout << "Respuesta: "; cin >> opc;
 
